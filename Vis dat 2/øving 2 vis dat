@@ -1,0 +1,15 @@
+Task 2 
+B
+1 The color in the middle is diffierent. because of the blend order.  
+
+2 the color in the middle does not blend because the blender is blended in from the back to the front and the triangels are drawn in the wrong order.
+
+Task 3
+B
+a) The triangles are scaling in the x-axis
+b) The triangels are sheering in the x-axis
+c) The triangels are translating in the x-axis
+d) The triangels are sheering in the y-axis
+e) The triangels are scaling in the y-axis
+f) The triangels are translating in the y-axis
+

@@ -1,0 +1,20 @@
+Task 2
+A
+1) It is called clipping
+2) When the vertexes are outside the boarders of the viewport 
+3) It is no point drawing graphics outside the viewport, as it is not seen. 
+
+B
+1) The triangle disepares 
+2) The points are drawn in an other order. This is called face culling.
+3) When you draw the points clockwise you end up (not) seen the backside. 
+
+C
+1) It resets each frame, so it makes sure it draws the "top layer" each time
+2) When shadowing pixels, one for color and one for shaddow. (i think, idk) 
+3) Vertex shader maipulates and controlls the "drawing" of vertexes. Fragment shader manipulates and controls all the stuff inbetween the vertexes, with pixels coloring and everyting. 
+4) To easyliy be able to reuse vertexes, and genneraly easy to maipulate.
+5) When the data you need in the buffer does not start at index 0. You change the number.
+
+
+
